@@ -1,5 +1,6 @@
 PDF of Lab 01
-[DT Lab 01.pdf](https://github.com/user-attachments/files/30377588/DT.Lab.01.pdf)
+[DT Lab 01.pdf](https://github.com/user-attachments/files/30378395/DT.Lab.01.pdf)
+
 
 Circuit diagram:
 <div>
