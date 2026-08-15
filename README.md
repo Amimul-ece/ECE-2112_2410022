@@ -49,4 +49,7 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: | 
 |01|Introduction to Digital Logic|[Lab 01](https://github.com/Amimul-ece/ECE-2112_2410022/blob/main/Lab/Lab%2001.md)|
+|02| Simplification of Boolean Expressions Using Boolean
+Algebra and Karnaugh Map, and Verification Using Logic Circuit
+Simulation|[Lab 02]()
 </div>
